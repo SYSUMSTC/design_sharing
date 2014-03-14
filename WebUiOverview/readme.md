@@ -1,12 +1,7 @@
-design_sharing
-==============
-
-slide of Meichuan Department
-
 Some Resources of Web Design
 ============================
 
-###有待&&欢迎 补充
+###欢迎补充
 
 ##Book
 
@@ -28,17 +23,16 @@ Some Resources of Web Design
 ##Some Tools
 
 * Prototyping
-
+  
   * [ Pencil (开源免费) ](http://pencil.evolus.vn/)
   * [ Balsamiq Mockups (手绘风格) ](http://balsamiq.com/download/)
   * [ Mockups Online ](https://moqups.com/)
 
 * Fonts
-
-* [ 在线字体识别 ](http://www.myfonts.com/WhatTheFont/)
+    
+  * [ 在线字体识别 ](http://www.myfonts.com/WhatTheFont/)
 
 * 还有一些见上学期发的“午夜凶铃”= =
-
 ##html && css
 
 * Online Study
@@ -49,6 +43,5 @@ Some Resources of Web Design
   * [ MDN(主要是参考用，不过也有一些入门的文档，可以看html和css部分，在此页左边链接 ](https://developer.mozilla.org/zh-CN/)
 
 ##Some Question from Zhihu
-
 
 

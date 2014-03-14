@@ -1,0 +1,165 @@
+/*
+ * General style
+ */
+body {
+    background-color: rgb(129, 132, 90);
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+div .slide{
+    width: 1540px;
+    height: 800px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+div .hide {
+    position: absolute;
+    visibility: hidden;
+}
+
+blockquote {
+    display: block;
+    margin-left: 220px;
+    width: 1000px;
+    background-color: rgba(10, 75, 158, 1);
+    font-size: 2em;
+    --webkit-box-shadow: 1px 0px 15px rgba(0,0,0,0.4);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.fr {
+    float: right;
+}
+
+.clearfix {
+    overflow: auto;
+    zoom: 1;
+}
+
+p {
+    font-size: 2em;
+    padding-left: 240px;
+}
+
+a, b{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 3em;
+}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+a:hover {
+    display: box;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+button {
+    width: 200px;
+    border-radius: 20px;
+    margin-left: 600px;
+    font-size: 2em;
+    background-color: rgba(0, 37, 109, 0.96);
+}
+
+/*
+ * slide style
+ */
+body #impress .slide h1{
+    padding-left: 100px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 4em;
+}
+
+body #impress #step-1 h2{
+    font-size: 2em;
+}
+
+body #impress .title h1{
+    font-family: "Bad Script", cursive;
+    font-size: 8em;
+    text-align: center;
+    padding: 0;
+    margin-top: 0;
+}
+
+body #impress .title h2{
+    font-family: "Bad Script", cursive;
+    padding-left: 100px;
+    font-size: 3em;
+    margin-top: 50px;
+}
+
+body #impress .title h3{
+    font-family: "Bad Script", cursive;
+    text-align: center;
+    font-size: 2em;
+}
+
+body #impress #step-4 .box {
+    position: absolute;
+    right: 120px;
+    width: 1240px;
+    height: 500px;
+    background-color: rgba(199, 44, 44, 1);
+    border-radius: 10px;
+}
+
+body #impress #step-4 .box a, b{
+    font-size: 2em;
+}
+
+body #impress #step-4 .box p{
+    padding-left: 120px;
+}
+
+body #impress #step-4 .box h1{
+    margin-top: 0;
+}
+
+body .s6 h2 {
+    font-size: 6em;
+    font-family: "Bad Script", cursive;
+    text-align: center;
+}
+
+body .s6 p {
+    padding-right: 100px;
+    text-align: right;
+}
+
+/*
+ * color
+ */
+.s1 {
+    background-color: rgba(0, 37, 109, 0.96);
+}
+.s2 {
+    background-color: #348fd4;
+}
+.s3 {
+    background-color: #cc4037;
+}
+.s4 {
+    background-color: brown;
+}
+.s5 {
+    background-color: #FF833F;
+}
+.s6 {
+    background-color: #63C1FF;
+}
